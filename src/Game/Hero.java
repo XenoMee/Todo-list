@@ -8,6 +8,7 @@ public class Hero {
  private int health=100;
  private int damage;
  private int level=1;
+ private boolean test=false;
  
  static final double PROBABILITYOFATTACK = 0.8; 
  
